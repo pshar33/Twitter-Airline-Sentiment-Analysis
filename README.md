@@ -32,3 +32,6 @@ I found some interesting results by visualizing and cleaning the data and then b
     - Decision Tree Classifier
     - Random Forest Classifier
 8. Calculating accuracies, plotting the confusion matrix and comparing the models.
+
+The link to my kaggle kernel is https://www.kaggle.com/parthsharma5795/comprehensive-twitter-airline-sentiment-analysis .
+**Please feel free to leave a feedback or comment and upvote on KAGGLE if you found it to be helpful !!**
