@@ -9,7 +9,7 @@
 * re,nltk
 * sklearn
 
-If you are using anaconda you need to :-
+**If you are using anaconda you need to :-**
 - install wordcloud in the anaconda prompt using the command **python -m pip install wordcloud** (for visualization purposes)
 - install mlxtend using the command **pip install mlxtend** (for plotting the confusion matrix)
 - install nltk using **pip install nltk** ( toolkit for nlp data)
