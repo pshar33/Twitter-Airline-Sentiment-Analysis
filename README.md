@@ -1,6 +1,19 @@
 # Twitter-Airline-Sentiment-Analysis
 
-### Breakdown of this notebook:
+### Code requirements
+
+* Numpy
+* Pandas
+* matplotlib
+* os
+* re,nltk
+* sklearn
+
+### Description
+The data is a csv file of tweets for 6 different airlines over a period of 2015-02-17 to 2015-02-24.
+I found some interesting results by visualizing and cleaning the data and then by later trying to predict the twitter sentiments by the tweets data.
+
+### Breakdown of the notebook:
 
 1. Loading the dataset: Load the data and import the libraries.
 2. Data Preprocessing:
